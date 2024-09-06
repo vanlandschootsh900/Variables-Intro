@@ -20,7 +20,7 @@
 # Use the print function to print the value of one of three variables you created in Part 1
 `school = 'career_tech'`
 `favorite_singer = 'ajr'`
-
+ `greeting = 'Good morning'`
 
 # Part 2 / Working with Numbers (Numeric Data)
 # Define a variable called my_age and assign it your age as an integer
