@@ -16,5 +16,5 @@
 
 3. List 2 - 3 guidelines to keep in mind when naming your Python variables.
     -  Write the name of your Python variable in lowercase
-    -  
-    -  Answer here
+    -  name things right
+    -  and dont do this 'shay"
