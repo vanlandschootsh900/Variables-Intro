@@ -27,7 +27,7 @@ greeting = 'Good morning'
 # Define a variable called conversion_factor and assign it the value of 2.54 (a float/floating-point number)
 # Define a variable called book_price and assign it a value of 20.99 (a float/floating-point number)
 # Use the print function to print the value of one of three variables you created in Part 2
-
+my_age = 16
 
 
 
