@@ -1,4 +1,4 @@
-# Student name
+# shay VanLnadschoot
 # 04 SEP 2024
 # Variables Practice
 
