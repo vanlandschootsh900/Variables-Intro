@@ -41,3 +41,4 @@ book_price = 20.99
 # Use the print function to print your age on your computer screen
 fname = 'shay'
 city = 'traverscity'
+print(f{fname}{city}{my_age})
