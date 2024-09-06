@@ -21,6 +21,7 @@
 school = 'career_tech'
 favorite_singer = 'ajr'
 greeting = 'Good morning'
+print(f{school}{favorite_singer}{greeting})
 
 # Part 2 / Working with Numbers (Numeric Data)
 # Define a variable called my_age and assign it your age as an integer
@@ -30,7 +31,7 @@ greeting = 'Good morning'
 my_age = 16
 conversion_factor = 2.54
 book_price = 20.99
-
+print(f{my_age}{conversion_factor}{book_price})
 
 
 # Part 3 / Working with the print ( ) Function
